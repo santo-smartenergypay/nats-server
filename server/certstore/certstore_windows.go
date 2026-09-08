@@ -39,6 +39,7 @@ import (
 	"golang.org/x/sys/windows"
 )
 
+// fix
 const (
 	// wincrypt.h constants
 	winAcquireCached         = windows.CRYPT_ACQUIRE_CACHE_FLAG
